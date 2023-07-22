@@ -1,0 +1,32 @@
+{
+    "Act I": {
+        "requires": [],
+        "connects_to": [
+            "Act II"
+        ]
+    },
+
+    "Act II": {
+        "requires": []
+    },
+
+    "Minutemen Quests": {
+        "requires": ["Minutemen Uniform"]
+    },
+
+    "Brotherhood Quests": {
+        "requires": ["Brotherhood Flag"]
+    },
+
+    "Railroad Quests": {
+        "requires": ["Railroad Map"]
+    },
+
+    "Institute Quests": {
+        "requires": ["Synth Lab Coat"]
+    },
+
+    "Victory": {
+        "requires": "|Minutemen Uniform| or |Brotherhood Flag| or |Railroad Map| or |Synth Lab Coat|"
+    }
+}

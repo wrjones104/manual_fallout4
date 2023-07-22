@@ -1,0 +1,2984 @@
+[
+  {
+    "name": "Out of Time",
+    "category": [
+      "Quests - Act I"
+    ],
+    "region": "Act I"
+  },
+  {
+    "name": "Jewel of the Commonwealth",
+    "category": [
+      "Quests - Act I"
+    ],
+    "region": "Act I"
+  },
+  {
+    "name": "Unlikely Valentine",
+    "category": [
+      "Quests - Act I"
+    ],
+    "region": "Act I"
+  },
+  {
+    "name": "Getting a Clue",
+    "category": [
+      "Quests - Act I"
+    ],
+    "region": "Act I"
+  },
+  {
+    "name": "Reunions",
+    "category": [
+      "Quests - Act I"
+    ],
+    "region": "Act I"
+  },
+  {
+    "name": "Dangerous Minds",
+    "category": [
+      "Quests - Act II"
+    ],
+    "region": "Act II"
+  },
+  {
+    "name": "The Glowing Sea",
+    "category": [
+      "Quests - Act II"
+    ],
+    "region": "Act II"
+  },
+  {
+    "name": "Hunter/Hunted",
+    "category": [
+      "Quests - Act II"
+    ],
+    "region": "Act II"
+  },
+  {
+    "name": "The Molecular Level",
+    "category": [
+      "Quests - Act II"
+    ],
+    "region": "Act II"
+  },
+  {
+    "name": "Institutionalized",
+    "category": [
+      "Quests - Act II"
+    ],
+    "region": "Act II"
+  },
+  {
+    "name": "Cambridge Polymer Labs",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Confidence Man",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Curtain Call",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Dependency",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Diamond City Blues",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Emogene Takes a Lover",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Here Kitty, Kitty",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Here There Be Monsters",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Hole in the Wall",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Human Error",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "In Sheep's Clothing",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Kid in a Fridge",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Last Voyage of the U.S.S. Constitution",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Mystery Meat",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Order Up",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Out in Left Field",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Painting the Town",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Pickman's Gift",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Public Knowledge",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Pull the Plug",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Short Stories",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Special Delivery",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Story of the Century",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Big Dig",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Devil's Due",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Disappearing Act",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Gilded Grasshopper",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Marowski Heist",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Memory Den",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Secret of Cabot House",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "The Silver Shroud",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Trouble Brewin'",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Vault 75",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Vault 81",
+    "category": [
+      "Secondary Quests"
+    ]
+  },
+  {
+    "name": "Art Appreciation",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Atom Cats",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Botany Class",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "The Combat Zone",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Detective Case Files",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Diamond City's Most Wanted",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Fallen Hero",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Find the Treasures of Jamaica Plain",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Fly Fishing",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Giddyup 'n Go",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Greet the Dog",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Gun Run",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Hazardous Material",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Home Plate",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "MacCready for Action",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Meet Ness at the Crash Site",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Message in a Bottle - Trapped for Days",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Message in a Bottle - Predator Becomes Prey",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Message in a Bottle - Not Going Well",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Message in a Bottle - Need a Hand",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Message in a Bottle - Difficult to Kill",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Message in a Bottle - X Marks the Spot",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Nuka Cola Needs",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Pool Cleaning",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Prep School",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Recruiting Hancock",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Galleria",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "The Cleaner",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Traffic Jam",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Vault 81 Tour",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "Virgil's Cure",
+    "category": [
+      "Miscellaneous Quests"
+    ]
+  },
+  {
+    "name": "When Freedom Calls",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "The First Step",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Taking Independence",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Old Guns",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Inside Job",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Form Ranks",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Defend the Castle",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "The Nuclear Option (Minutemen)",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "With Our Powers Combined",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Out of the Fire",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Returning the Favor",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Sanctuary",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Troubled Waters",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "The Sight",
+    "category": [
+      "Minutemen Quests"
+    ],
+    "region": "Minutemen Quests"
+  },
+  {
+    "name": "Reveille",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Fire Support",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Call to Arms",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Semper Invicta",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Shadow of Steel",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Tour of Duty",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Show No Mercy",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "From Within",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Outside the Wire",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Liberty Reprimed",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Blind Betrayal",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Tactical Thinking",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Spoils of War",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Ad Victoriam",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "The Nuclear Option (Brotherhood of Steel)",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "A New Dawn",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "A Loose End",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Duty or Dishonor",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "The Lost Patrol",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Cleansing the Commonwealth",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Feeding the Troops",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Leading by Example",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Learning Curve",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Quartermastery",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Blood Bank",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Getting Technical",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Reactor Coolant",
+    "category": [
+      "Brotherhood Quests"
+    ],
+    "region": "Brotherhood Quests"
+  },
+  {
+    "name": "Road to Freedom",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Tradecraft",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Underground Undercover",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Precipice of War",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Rockets' Red Glare",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "The Nuclear Option (Railroad)",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Boston After Dark",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Mercer Safehouse",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Burning Cover",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Butcher's Bill",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Butcher's Bill 2",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Memory Interrupted",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Operation Ticonderoga",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "A Clean Equation",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Concierge",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "High Ground",
+    "category": [
+      "Railroad Quests"
+    ],
+    "region": "Railroad Quests"
+  },
+  {
+    "name": "Synth Retention",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "The Battle of Bunker Hill",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Mankind - Redifined",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Mass Fusion",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Pinned",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Powering Up",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "End of the Line",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Airship Down",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Nuclear Family",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "A House Divided",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Building a Better Crop",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Plugging a Leak",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Appropriation",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Hypothesis",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "Political Leanings",
+    "category": [
+      "Institute Quests"
+    ],
+    "region": "Institute Quests"
+  },
+  {
+    "name": "35 Court",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Abandoned House (Charlestown)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Abbot's House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "All Faiths Chapel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Andrew Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Anna's Cafe",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Atlantic Offices",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Back Alley Bowling",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Back Bay",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Back Street Apparel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "BADTFL Regional Office",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Barricade and Rooftops",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Baxter Building",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Beacon Hill Apartments",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Beacon Hill",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boston Airport Ruins",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boston Airport",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boston Bugle Building",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boston Common",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boston Harbor",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boston Public Library",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boxing Gym",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Boylston Club",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Bridgeway Trust",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Broken Monorail",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Brookline Building",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Bus and Apartment Wreckage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cabot House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Academic Center",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Campus Diner",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Construction Site",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Crater",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Hardware Store",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Police Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Polymer Labs",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge Savings and Loan",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cambridge",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Campus Law Offices",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Capsized Factory",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cave (Glowing Sea)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Charles View Amphitheater",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Charlestown Condo",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Charlestown Laundry",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Charlestown",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Chem-I-Care",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Choice Cops",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Codman Residence",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "College Square Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "College Square",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Collegiate Administration Building",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Colonial Taphouse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Columbus Park",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Combat Zone",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Commonwealth Avenue",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Commonwealth Bank",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Commonwealth Weaponry",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Concord Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Concord Civic Access",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Concord Savings and Loan",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Concord Speakeasy",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Congress Street Garage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Cooke Residence",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Copley Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Corvega Assembly Plant",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Croup Manor",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Custom House Tower",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "D.B. Technical High School",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Dartmouth Professional Building",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Decayed Reactor Site",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Decrepit Factory",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Diamond City Market",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Diamond City Radio (Location)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Diamond City Surplus",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Doc Crocker's House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Doctor Sun's House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Dorchester Height Monument",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Drug Den",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Drumlin Diner (East Boston)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Drumlin Diner (Gibson Point Pier)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Drumlin Diner (Salem)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Dugout Inn",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Earl Sterling's House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "East Boston Police Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "East Boston Preparatory School",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "East Boston",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Easy City Downs",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Edge of the Glowing Sea",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Esplanade",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Evans Way Cul-de-Sac",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Factory",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Faded Glory Laundromat",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallen Skybridge",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallon's (Concord)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallon's (Faneuil Hall)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallon's (General Atomics Galleria)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallon's (Monsignor Plaza)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallon's Basement",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fallon's Department Store",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Faneuil Hall",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Federal Supply Cache 84NE",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Federal Surveillance Center K-21B",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fens Cafe",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fens Street Sewer",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fens Way Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fentons Food Stuffs",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Financial District",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Flagon Tunnel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Footbridge (Esplanade)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Forgotten Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Four Leaf Fishpacking Plant",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Fraternal Post 115",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Garage Alcove",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Garden Terrace",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "General Atomics Factory",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "General Atomics Outlet",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Gibson Point Pier",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Glowing Sea",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Goodneighbor",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Greenhouse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Greentech Genetics",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Greentop Nursery",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Guns Guns Guns",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Gwinnett Brewery (Company)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Gwinnett Brewery",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "HalluciGen, Inc.",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Handy Eats",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hangman's Alley",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Harbormaster Hotel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hardware Store",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hardware Town",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hawhtorne Residence",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hawthorne Estate",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Haymarket Mall",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hester's Consumer Robotics",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hidden Diner",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hillside Home",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hoarder's Apartment",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Holy Mission Congregation",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Home Plate",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hopesmarch Pentecostal Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hub 360",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Hubris Comics",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Advanced Systems",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute BioScience",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Concourse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute FEV Lab",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Old Robotics",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Reactor",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Robotics",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Sublevel 21-D",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Institute Synth Retention",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Jimbo's Tower",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Joe's Spuckies Sandwich Shop",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Joe's Spuckies",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Kathy & John's Super Salon",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Kellogg's House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Kendall Hospital",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Kendall Parking",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "L Street Bathhouse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Latimer Residence",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Layton Towers",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Lexington Apartments",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Lexington Bank",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Lexington Pharmacy",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Lexington",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Lil' Gentry Playground",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Long Wharf",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Madden's Gym",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mahkra Fishpacking",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Malden Center",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Malden Drainage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Malden Middle School",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Malden Police Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Malden Police Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Malden",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Marlborough House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Marowski's Cheml Lab",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mass Bay Medical Center",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mass Chemical",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mass Fusion Building",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Massachusetts State House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mayor McDonough's Office",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mean Pastries",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Med-Tek Research",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Medford Memorial Hospital",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Medical Center Metro",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Mega Surgery Center",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Milton General Hospital",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Milton Parking Garage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Minutemen Monument",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Municipal Plutonium Well",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Museum of Freedom",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Museum of Witchcraft",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nahant Bar and Restaurant",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nahant Chapel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nahant Oceanological Society",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nahant Sheriff's Department",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nahant Wharf",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nahant",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Natick Banks",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Natick Police Department",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Natick Power Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Natick",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Neon Flats",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "North End Graveyard",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "North End",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Northwest House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Nu Cafe Ola",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "O'Neill Family Manufacturing",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Old Corner Bookstore",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Old Granary Burying Ground",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Old Gullet Sinkhole",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Old North Bridge",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Old North Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Park Street Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Parking Garage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Parkview Apartments",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Paul Revere House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Paul Revere Monument",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Peabody House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pearwood Residences",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pembroke Residence",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pickman Gallery",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pinelli's Bakery (Concord)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pinelli's Bakery (General Atomics Galleria)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pinnacle Highrise",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Pizza Parlor",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Plumber's Secret",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Police Precinct 8",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Poseidon Reservoir",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Postal Square",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Power Noodles",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Prost Bar",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Public Works Maintenance Area",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Publick Occurrences (Location)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Apartments",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Diner",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Liquors",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Massacre",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Pharmacy",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Police Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Quarries",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Quincy Ruins",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Raider Back-Alley Camp",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Railroad HQ",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (Cambridge)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (College Square)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (Glowing Sea)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (Lexington)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (Nahant)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (Natick Banks)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Red Rocket (Quincy)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Reeb Marina",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Relay Tower 0DB-521",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Revere Beach Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Revere Satellite Array",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Revere",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Roadside Pines Motel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "RobCo Sales & Service Center",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Rocky Cave",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Rook Family House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Root Cellar",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Rosa Residence",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Safe at Home Hotel",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Salem",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Sanctuary Hills",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Sandy Coves Convalescent Home",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Schoolhouse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Science Center Gift Shop",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Science! Center",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Security Office",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Sedgwick Hall",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Sentinel Site",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Settler Campsite",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Shaw High School",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Sheng Kawolski's House",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Shenley's Oyster Bar",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Shroud Manor",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Skylanes Flight 1665",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Slocum's Joe (Baxter Building)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Slocum's Joe (Cambridge)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Slocum's Joe (General Atomics Galleria)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Slocum's Joe (Mass Bay Medical)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "SLocum's Joe Corporate HQ",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Boston Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Boston High School",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Boston Military Checkpoint",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Boston Police Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Boston Softball Squad",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Boston",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "South Fens Tower",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Sullivan's",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Super Duper Mart",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Swan's Pond",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Swatters",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Castle",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Fens",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Gwinnett Restaurant",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The House of Tomorrow",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Institute (Location)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Mechanist's Lair",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Prydwen",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Shamrock Taphouse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "The Wall",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Theater District",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Ticker Tape Lounge",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Ticonderoga",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Trinity Church",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Trinity Plaza",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Trinity Tower",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Union Man's Circle",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Union's Hope Cathedral",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "University Credit Union",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "University Point",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "USS Constitution",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Valenti Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Valentine Detective Agency",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Vault 114",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Vault-Tec Regional HQ",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Vertibird Wreckage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Walden Drugs (Concord)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Warren Theater",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Water Street Apartments",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Weatherly Inn (Cambridge)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "West Roxbury Station",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "West Roxbury",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Wharfside Cottage",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Wilson Atomatoys Corporate HQ",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Workhouse",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Wreck of the USS Riptide",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Wright's Inn (Cambridge)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Wright's Inn (Concord)",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Yangtze",
+    "category": [
+      "Locations"
+    ]
+  },
+  {
+    "name": "Clear any Faction storyline",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "region": "Victory"
+  }
+]
