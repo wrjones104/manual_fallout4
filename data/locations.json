@@ -963,2016 +963,272 @@
     ],
     "region": "Institute Quests"
   },
-  {
-    "name": "35 Court",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Abandoned House (Charlestown)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Abbot's House",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "All Faiths Chapel",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Andrew Station",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Anna's Cafe",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Atlantic Offices",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Back Alley Bowling",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Back Bay",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Back Street Apparel",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "BADTFL Regional Office",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Barricade and Rooftops",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Baxter Building",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Beacon Hill Apartments",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Beacon Hill",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boston Airport Ruins",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boston Airport",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boston Bugle Building",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boston Common",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boston Harbor",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boston Public Library",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boxing Gym",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Boylston Club",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Bridgeway Trust",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Broken Monorail",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Brookline Building",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Bus and Apartment Wreckage",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cabot House",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Academic Center",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Campus Diner",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Church",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Construction Site",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Crater",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Hardware Store",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Police Station",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Polymer Labs",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge Savings and Loan",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cambridge",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Campus Law Offices",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Capsized Factory",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cave (Glowing Sea)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Charles View Amphitheater",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Charlestown Condo",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Charlestown Laundry",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Charlestown",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Chem-I-Care",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Choice Cops",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Codman Residence",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "College Square Station",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "College Square",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Collegiate Administration Building",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Colonial Taphouse",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Columbus Park",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Combat Zone",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Commonwealth Avenue",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Commonwealth Bank",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Commonwealth Weaponry",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Concord Church",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Concord Civic Access",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Concord Savings and Loan",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Concord Speakeasy",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Congress Street Garage",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Cooke Residence",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Copley Station",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Corvega Assembly Plant",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Croup Manor",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Custom House Tower",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "D.B. Technical High School",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Dartmouth Professional Building",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Decayed Reactor Site",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Decrepit Factory",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Diamond City Market",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Diamond City Radio (Location)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Diamond City Surplus",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Doc Crocker's House",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Doctor Sun's House",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Dorchester Height Monument",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Drug Den",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Drumlin Diner (East Boston)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Drumlin Diner (Gibson Point Pier)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Drumlin Diner (Salem)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Dugout Inn",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Earl Sterling's House",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "East Boston Police Station",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "East Boston Preparatory School",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "East Boston",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Easy City Downs",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Edge of the Glowing Sea",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Esplanade",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Evans Way Cul-de-Sac",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Factory",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Faded Glory Laundromat",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallen Skybridge",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallon's (Concord)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallon's (Faneuil Hall)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallon's (General Atomics Galleria)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallon's (Monsignor Plaza)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallon's Basement",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fallon's Department Store",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Faneuil Hall",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Federal Supply Cache 84NE",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Federal Surveillance Center K-21B",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fens Cafe",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fens Street Sewer",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fens Way Station",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fentons Food Stuffs",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Financial District",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Flagon Tunnel",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Footbridge (Esplanade)",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Forgotten Church",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Four Leaf Fishpacking Plant",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Fraternal Post 115",
-    "category": [
-      "Locations A-F"
-    ]
-  },
-  {
-    "name": "Garage Alcove",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Garden Terrace",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "General Atomics Factory",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "General Atomics Outlet",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Gibson Point Pier",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Glowing Sea",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Goodneighbor",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Greenhouse",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Greentech Genetics",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Greentop Nursery",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Guns Guns Guns",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Gwinnett Brewery (Company)",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Gwinnett Brewery",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "HalluciGen, Inc.",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Handy Eats",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hangman's Alley",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Harbormaster Hotel",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hardware Store",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hardware Town",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hawhtorne Residence",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hawthorne Estate",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Haymarket Mall",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hester's Consumer Robotics",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hidden Diner",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hillside Home",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hoarder's Apartment",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Holy Mission Congregation",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Home Plate",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hopesmarch Pentecostal Church",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hub 360",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Hubris Comics",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Advanced Systems",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute BioScience",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Concourse",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute FEV Lab",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Old Robotics",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Reactor",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Robotics",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Sublevel 21-D",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Institute Synth Retention",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Jimbo's Tower",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Joe's Spuckies Sandwich Shop",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Joe's Spuckies",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Kathy & John's Super Salon",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Kellogg's House",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Kendall Hospital",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Kendall Parking",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "L Street Bathhouse",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Latimer Residence",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Layton Towers",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Lexington Apartments",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Lexington Bank",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Lexington Pharmacy",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Lexington",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Lil' Gentry Playground",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Long Wharf",
-    "category": [
-      "Locations G-L"
-    ]
-  },
-  {
-    "name": "Madden's Gym",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mahkra Fishpacking",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Malden Center",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Malden Drainage",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Malden Middle School",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Malden Police Station",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Malden Police Station",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Malden",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Marlborough House",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Marowski's Cheml Lab",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mass Bay Medical Center",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mass Chemical",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mass Fusion Building",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Massachusetts State House",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mayor McDonough's Office",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mean Pastries",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Med-Tek Research",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Medford Memorial Hospital",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Medical Center Metro",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Mega Surgery Center",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Milton General Hospital",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Milton Parking Garage",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Minutemen Monument",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Municipal Plutonium Well",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Museum of Freedom",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Museum of Witchcraft",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nahant Bar and Restaurant",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nahant Chapel",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nahant Oceanological Society",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nahant Sheriff's Department",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nahant Wharf",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nahant",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Natick Banks",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Natick Police Department",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Natick Power Station",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Natick",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Neon Flats",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "North End Graveyard",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "North End",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Northwest House",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Nu Cafe Ola",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "O'Neill Family Manufacturing",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Old Corner Bookstore",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Old Granary Burying Ground",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Old Gullet Sinkhole",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Old North Bridge",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Old North Church",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Park Street Station",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Parking Garage",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Parkview Apartments",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Paul Revere House",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Paul Revere Monument",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Peabody House",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pearwood Residences",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pembroke Residence",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pickman Gallery",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pinelli's Bakery (Concord)",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pinelli's Bakery (General Atomics Galleria)",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pinnacle Highrise",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Pizza Parlor",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Plumber's Secret",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Police Precinct 8",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Poseidon Reservoir",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Postal Square",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Power Noodles",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Prost Bar",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Public Works Maintenance Area",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Publick Occurrences (Location)",
-    "category": [
-      "Locations K-P"
-    ]
-  },
-  {
-    "name": "Quincy Apartments",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Church",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Diner",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Liquors",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Massacre",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Pharmacy",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Police Station",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Quarries",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Quincy Ruins",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Raider Back-Alley Camp",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Railroad HQ",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (Cambridge)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (College Square)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (Glowing Sea)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (Lexington)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (Nahant)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (Natick Banks)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Red Rocket (Quincy)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Reeb Marina",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Relay Tower 0DB-521",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Revere Beach Station",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Revere Satellite Array",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Revere",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Roadside Pines Motel",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "RobCo Sales & Service Center",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Rocky Cave",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Rook Family House",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Root Cellar",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Rosa Residence",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Safe at Home Hotel",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Salem",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Sanctuary",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Sandy Coves Convalescent Home",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Schoolhouse",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Science Center Gift Shop",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Science! Center",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Security Office",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Sedgwick Hall",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Sentinel Site",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Settler Campsite",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Shaw High School",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Sheng Kawolski's House",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Shenley's Oyster Bar",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Shroud Manor",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Skylanes Flight 1665",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Slocum's Joe (Baxter Building)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Slocum's Joe (Cambridge)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Slocum's Joe (General Atomics Galleria)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Slocum's Joe (Mass Bay Medical)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "SLocum's Joe Corporate HQ",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Boston Church",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Boston High School",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Boston Military Checkpoint",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Boston Police Station",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Boston Softball Squad",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Boston",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "South Fens Tower",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Sullivan's",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Super Duper Mart",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Swan's Pond",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Swatters",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Castle",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Fens",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Gwinnett Restaurant",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The House of Tomorrow",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Institute (Location)",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Mechanist's Lair",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Prydwen",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Shamrock Taphouse",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "The Wall",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Theater District",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Ticker Tape Lounge",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Ticonderoga",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Trinity Church",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Trinity Plaza",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Trinity Tower",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Union Man's Circle",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Union's Hope Cathedral",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "University Credit Union",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "University Point",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "USS Constitution",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Valenti Station",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Valentine Detective Agency",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Vault 114",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Vault-Tec Regional HQ",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Vertibird Wreckage",
-    "category": [
-      "Locations Q-V"
-    ]
-  },
-  {
-    "name": "Walden Drugs (Concord)",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Warren Theater",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Water Street Apartments",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Weatherly Inn (Cambridge)",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "West Roxbury Station",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "West Roxbury",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Wharfside Cottage",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Wilson Atomatoys Corporate HQ",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Workhouse",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Wreck of the USS Riptide",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Wright's Inn (Cambridge)",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Wright's Inn (Concord)",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
-  {
-    "name": "Yangtze",
-    "category": [
-      "Locations W-Z"
-    ]
-  },
+
+   { "name": "Vault 111", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Sanctuary Hills", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Red Rocket Truck Stop", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Robotics Disposal Grond", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Thicket Excavations", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "USAF Satellite Station Olivia", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Tenpines Bluff", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Ranger Cabin", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Wicked Shipping Fleet Lockup", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Abernathy Farm", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Concord", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Museum of Freedom", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Bedford Station", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Gorski Cabin", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Drumlin Diner", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Lonely Chapel", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Starlight Drive In", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Sunshine Tidings Co-Op", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Walden Pond", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Mystic Pines", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Super Duper Mart", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Lexington", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+   { "name": "Lexington Apartments", "category": ["Zone 1: Lexington & NW Commonwealth"] },
+
+   { "name": "Outpost Zimonja", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Lake Quannapowitt", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Radio Tower 3SM-U81", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Recon Bunker Theta", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Lynn Woods", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Parsons Creamery", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Parsons State Insane Asylum", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Rotten Landfill", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Wildwood Cemetery", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Skylanes Flight 1981", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "General Atomics Galleria", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Dark Hollow Pond", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Mass Fusion Containment Shed", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Old Gullet Sinkhole", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Greentop Nursery", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Breakheart Banks", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Listening Post Bravo", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "The Slog", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Saugus Ironworks", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Medford Memorial Hospital", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Malden Center", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Slocum's Joe Corporate HQ", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Malden Middle School", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Vault 75", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Med-Tek Research", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Covenant", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Taffington Boathouse", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Tucker Memorial Bridge", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Poseiden Energy Turbine 18-F", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "West Everett Estates", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Irish Pride Industries Shipyard", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Relay Tower 0MC-810", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "National Guard Training Yard", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "County Crossing", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Revere Satellite Array", "category": ["Zone 2: Coastal Commonwealth"] },
+   { "name": "Finch Farm", "category": ["Zone 2: Coastal Commonwealth"] },
+
+   { "name": "Federal Ration Stockpile", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "ArcJet Systems", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Rocky Narrows Park", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Graygarden", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Jalbert Brothers Disposal", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Corvega Assembly Plant", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Mass Gravel & Sand", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Wattz Consumer Electronics", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Fort Hagen Satellite Array", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Relay Tower 0BB-915", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Fort Hagen Filling Station", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Fort Hagen", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Greater Mass Blood Clinic", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Boston Mayoral Shelter", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Fiddler's Green Trailer Estates", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Weston Water Treatment Plant", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Forest Grove Marsh", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Relay Tower 1DL-109", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Oberland Station", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Beantown Brewery", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Mass Pike Interchange", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Vault 81", "category": ["Zone 3: Coastal Commonwealth"] },
+   { "name": "Chestnut Hillock Reservoir", "category": ["Zone 3: Coastal Commonwealth"] },
+
+   { "name": "Coastal Cottage", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Mahkra Fishpacking", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Dunwich Borers", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Hugo's Hole", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Museum of Witchcraft", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Sandy Coves Convalescent Home", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Salem", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Rook Family House", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Crater House", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Hub City Auto Wreckers", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Lynn Pier Parking", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Longneck Lukowski's Cannery", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Kingsport Lighthouse", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Reeb Marina", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Gibson Point Pier", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Revere Beach Station", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Libertalia", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Nahant Wharf", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Nahant Sheriff's Department", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Croup Manor", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Nahant Chapel", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Nahant Oceanological Society", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "East Boston Police Station", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "East Boston Prepatory School", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "East City Downs", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Nordhagen Beach", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Boston Airport", "category": ["Zone 4: Coastal Commonwealth"] },
+   { "name": "Fort Strong", "category": ["Zone 4: Coastal Commonwealth"] },
+
+   { "name": "Poseidon Reservoir", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Roadside Pines Motel", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Natick Banks", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Natick Police Department", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Lake Cochituate", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Mass Fusion Disposal Site", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Electric Hobbyist's Club", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "WRVR Broadcast Station", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Federal Supply Cache 84NE", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Robotics Pioneer Park", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Scrap Palace", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Cutler Bend", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Edge of the Glowing Sea", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Waypoint Echo", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Vault 95", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Somerville Place", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Forgotten Church", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Abandoned Shack", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Federal Surveillance Center K-21B", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Atlantic Offices", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Capsized Factory", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Cave (Red Rocket Filling Station)", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Decayed Reactor Site", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Decrepit Factory", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Crater of Atom", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Cave (Super Duper Mart)", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Vertibird Wreckage", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Hopesmarch Pentecostal Church", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Relay Tower 0DB-521", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Rocky Cave (Virgil's Laboratory)", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "O'Neill Family Manufacturing", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Sentinel Site", "category": ["Zone 5: Natick & The Glowing Sea"] },
+   { "name": "Skylanes Flight 1665", "category": ["Zone 5: Natick & The Glowing Sea"] },
+
+   { "name": "Westing Estate", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Coast Guard Pier", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Mass Pike Tunnel West", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Mass Pike Tunnel East", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Boston Police Rationing Site", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "NH&M Freight Depot", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Fairline Hill Estates", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Relay Tower 0SC-527", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Big John's Salvage", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "South Boston Military Checkpoint", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Egret Tours Marina", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Fallon's Department Store (West Roxbury Township)", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Milton General Hospital", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "West Roxbury Station", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Shaw High School", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Jamaica Plain", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Gunner's Plaza", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Hyde Park", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Suffolk County Charter School", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Murkwater Construction Site", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Quincy Quarries", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Neponset Park", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Wilson Atomatoys Factory", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Quincy Ruins", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Quincy Police Station", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Peabody House", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Atom Cats Garage", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Poseidon Energy", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Warwick Homestead", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Wreck of the FMS Northern Star", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+   { "name": "Spectacle Island", "category": ["Zone 6: Quincy & Southern Commonwealth"] },
+  
+   { "name": "College Square", "category": ["Zone 7: Cambridge"] },
+   { "name": "Cambridge Police Station", "category": ["Zone 7: Cambridge"] },
+   { "name": "Collegiate Administration Building", "category": ["Zone 7: Cambridge"] },
+   { "name": "Fraternal Post 115", "category": ["Zone 7: Cambridge"] },
+   { "name": "Cambridge Campus Diner", "category": ["Zone 7: Cambridge"] },
+   { "name": "Campus Law Offices", "category": ["Zone 7: Cambridge"] },
+   { "name": "Kendall Hospital", "category": ["Zone 7: Cambridge"] },
+   { "name": "Cambridge Polymer Labs", "category": ["Zone 7: Cambridge"] },
+   { "name": "C.I.T. Ruins", "category": ["Zone 7: Cambridge"] },
+   { "name": "The Institute", "category": ["Zone 7: Cambridge"] },
+   { "name": "Greenetech Genetics", "category": ["Zone 7: Cambridge"] },
+   { "name": "Cambridge Crater", "category": ["Zone 7: Cambridge"] },
+   { "name": "Monsignor Plaza", "category": ["Zone 7: Cambridge"] },
+    
+   { "name": "BADTFL Regional Office", "category": ["Zone 8: Charlestown"] },
+   { "name": "Bunker Hill", "category": ["Zone 8: Charlestown"] },
+   { "name": "U.S.S. Constitution", "category": ["Zone 8: Charlestown"] },
+  
+   { "name": "Wreck of the USS Riptide", "category": ["Zone 9: The Fens"] },
+   { "name": "Hangman's Alley", "category": ["Zone 9: The Fens"] },
+   { "name": "Back Street Apparel", "category": ["Zone 9: The Fens"] },
+   { "name": "Police Precinct 8", "category": ["Zone 9: The Fens"] },
+   { "name": "Parkview Apartments", "category": ["Zone 9: The Fens"] },
+   { "name": "Fens Street Sewer", "category": ["Zone 9: The Fens"] },
+   { "name": "Diamond City", "category": ["Zone 9: The Fens"] },
+   { "name": "Diamond City Market", "category": ["Zone 9: The Fens"] },
+   { "name": "Home Plate", "category": ["Zone 9: The Fens"] },
+   { "name": "Hardware Town", "category": ["Zone 9: The Fens"] },
+
+   { "name": "Charles View Amphitheater", "category": ["Zone 10: Esplanade"] },
+   { "name": "HalluciGen, Inc.", "category": ["Zone 10: Esplanade"] },
+
+   { "name": "Boston Public Library", "category": ["Zone 11: Back Bay"] },
+   { "name": "Trinity Plaza", "category": ["Zone 11: Back Bay"] },
+   { "name": "Hubris Comics", "category": ["Zone 11: Back Bay"] },
+   { "name": "Vault 114", "category": ["Zone 11: Back Bay"] },
+   { "name": "Trinity Tower", "category": ["Zone 11: Back Bay"] },
+   { "name": "Dartmouth Professional Building", "category": ["Zone 11: Back Bay"] },
+   { "name": "Layton Towers", "category": ["Zone 11: Back Bay"] },
+   { "name": "Wilson Atomatoys Corporate HQ", "category": ["Zone 11: Back Bay"] },
+
+   { "name": "Vault-Tec Regional HQ", "category": ["Zone 12: Beacon Hill"] },
+   { "name": "Boston Bugle Building", "category": ["Zone 12: Beacon Hill"] },
+   { "name": "Cabot House", "category": ["Zone 12: Beacon Hill"] },
+
+   { "name": "Pickman Gallery", "category": ["Zone 13: North End"] },
+   { "name": "Old North Church", "category": ["Zone 13: North End"] },
+
+   { "name": "Massachusetts State House", "category": ["Zone 14: Boston Commons"] },
+   { "name": "Old Granary Burying Ground", "category": ["Zone 14: Boston Commons"] },
+   { "name": "Swan's Pond", "category": ["Zone 14: Boston Commons"] },
+   { "name": "Boston Common", "category": ["Zone 14: Boston Commons"] },
+   { "name": "Park Street Station", "category": ["Zone 14: Boston Commons"] },
+   { "name": "Boylston Club", "category": ["Zone 14: Boston Commons"] },
+
+   { "name": "Mass Fusion Building", "category": ["Zone 15: Financial District"] },
+   { "name": "Old Corner Bookstore", "category": ["Zone 15: Financial District"] },
+   { "name": "Haymarket Mall", "category": ["Zone 15: Financial District"] },
+   { "name": "Garden Terrace", "category": ["Zone 15: Financial District"] },
+   { "name": "Faneuil Hall", "category": ["Zone 15: Financial District"] },
+   { "name": "Goodneighbor", "category": ["Zone 15: Financial District"] },
+   { "name": "Fallen Skybridge", "category": ["Zone 15: Financial District"] },
+   { "name": "Postal Square", "category": ["Zone 15: Financial District"] },
+
+   { "name": "Combat Zone", "category": ["Zone 16: Theater District"] },
+   { "name": "Medical Center Metro", "category": ["Zone 16: Theater District"] },
+   { "name": "Mass Bay Medical Center", "category": ["Zone 16: Theater District"] },
+   { "name": "D.B. Technical High School", "category": ["Zone 16: Theater District"] },
+   { "name": "Hester's Consumer Robotics", "category": ["Zone 16: Theater District"] },
+
+   { "name": "Custom House Tower", "category": ["Zone 17: Boston Harbor"] },
+   { "name": "The Shamrock Taphouse", "category": ["Zone 17: Boston Harbor"] },
+   { "name": "Harbormaster Hotel", "category": ["Zone 17: Boston Harbor"] },
+   { "name": "Yangtze", "category": ["Zone 17: Boston Harbor"] },
+
+   { "name": "Four Leaf Fishpacking Plant", "category": ["Zone 18: South Boston"] },
+   { "name": "General Atomics Factory", "category": ["Zone 18: South Boston"] },
+   { "name": "Andrew Station", "category": ["Zone 18: South Boston"] },
+   { "name": "South Boston Police Department", "category": ["Zone 18: South Boston"] },
+   { "name": "Gwinnett Brewery", "category": ["Zone 18: South Boston"] },
+   { "name": "The Gwinnett Restaurant", "category": ["Zone 18: South Boston"] },
+   { "name": "South Boston High School", "category": ["Zone 18: South Boston"] },
+   { "name": "The Castle", "category": ["Zone 18: South Boston"] },
+   { "name": "University Point", "category": ["Zone 18: South Boston"] },
+
   {
     "name": "Clear any Faction storyline",
     "victory": true,
